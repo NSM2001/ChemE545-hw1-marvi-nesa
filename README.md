@@ -1,4 +1,4 @@
-# ChemE545-hw1-marvi-nesa
+#ChemE545-hw1-marvi-nesa
 **Here are some descriptions on uploaded Python files and a guide on how to run them:**
 
 •**calculate-solution-weights-function**:
